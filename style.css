@@ -1,0 +1,24 @@
+body {
+/*    width: 1000px;*/
+/*    height: 800px;*/
+/*    margin: 0 auto;*/
+}
+
+.wrapper-page {
+    margin: 60px auto 0;
+    width: 560px;
+    max-height: 800px;
+    border: 1px solid #555;
+    text-align: center;
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.lilly {
+    width: 60px;
+}
+

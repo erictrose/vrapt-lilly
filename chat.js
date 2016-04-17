@@ -1,7 +1,3 @@
-  /**
-   * JanusWeb chat
-   * Connect to a server and allow two-way chat with users in VR
-   */
   var client = new JanusClientConnection({
     host: 'ws://vrapt.xyz:5566',
     userId: 'WebClientUser' + Math.floor(Math.random() * 100000),
