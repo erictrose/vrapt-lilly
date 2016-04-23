@@ -13,6 +13,10 @@ body {
     background-color: lightgray;
 }
 
+.top {
+    margin: 0 auto;
+}
+
 h1 {
     color: darkgoldenrod;
     text-align: center;
